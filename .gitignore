@@ -5,6 +5,7 @@ security_logs.json
 __pycache__/
 .venv/
 *.log
+secret.html
 
 # MacOS specific files
 .DS_Store
