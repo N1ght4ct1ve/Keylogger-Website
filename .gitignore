@@ -1,0 +1,10 @@
+# Gitignore file to prevent sensitive files from being committed
+.env
+security_logs.json
+*.pyc
+__pycache__/
+.venv/
+*.log
+
+# MacOS specific files
+.DS_Store
